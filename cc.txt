@@ -1,0 +1,206 @@
+('grape_pear_mandarine.jpg',): 21 Grape Blue
+
+('raspberries10.jpg',): 57 Onion White
+
+('cherries_wax5.jpg',): 26 Pear Kaiser
+
+('Bananas(lady_finger)5.jpg',): 89 Pepper Red
+
+('grape_pear_mandarine2.jpg',): 32 Eggplant
+
+('apple_pear.jpg',): 91 Apple Red Yellow 1
+
+('kachi.jpg',): 82 Pepper Green
+
+('apples4.jpg',): 57 Onion White
+
+('strawberries.jpg',): 5 Grape White 3
+
+('apples_peaches2.jpg',): 90 Kohlrabi
+
+('raspberry_apple.jpg',): 75 Hazelnut
+
+('apple_apricot_nectarine_peach_peach(flat)_pomegranate_pear_plum.jpg',): 123 Pear Monster
+
+('Bananas(lady_finger)1.jpg',): 54 Cucumber Ripe 2
+
+('tomatoes5.jpg',): 78 Potato Red Washed
+
+('chestnut3.jpg',): 46 Corn
+
+('strawberries5.jpg',): 2 Chestnut
+
+('mangos_bananas(lady_finger).jpg',): 123 Pear Monster
+
+('cherries5.jpg',): 78 Potato Red Washed
+
+('cherries4.jpg',): 104 Grape White 2
+
+('cherries(rainier)1.jpg',): 93 Pomegranate
+
+('raspberries8.jpg',): 47 Ginger Root
+
+('cherries_strawberries1.jpg',): 73 Plum 3
+
+('cherries3.jpg',): 113 Maracuja
+
+('raspberries2.jpg',): 41 Pear 2
+
+('raspberries12.jpg',): 23 Physalis
+
+('tomatoes2.jpg',): 113 Maracuja
+
+('tomatoes4.jpg',): 33 Quince
+
+('apple.jpg',): 89 Pepper Red
+
+('cherries7.jpg',): 54 Cucumber Ripe 2
+
+('strawberries4.jpg',): 91 Apple Red Yellow 1
+
+('raspberries11.jpg',): 102 Mulberry
+
+('cherries2.jpg',): 9 Pepper Yellow
+
+('limes.jpg',): 112 Mango Red
+
+('raspberries3.jpg',): 111 Carambula
+
+('cherries.jpg',): 63 Tomato Cherry Red
+
+('mangos2.jpg',): 37 Grape White
+
+('pear.jpg',): 64 Pineapple Mini
+
+('Bananas(lady_finger)2.jpg',): 3 Cherry Wax Black
+
+('apples3.jpg',): 63 Tomato Cherry Red
+
+('peaches.jpg',): 20 Pear Stone
+
+('mango.jpg',): 42 Potato Sweet
+
+('huckleberry.jpg',): 128 Cherry 1
+
+('strawberries3.jpg',): 100 Pomelo Sweetie
+
+('tomatoes1.jpg',): 53 Cherry Wax Yellow
+
+('raspberries7.jpg',): 105 Blueberry
+
+('kiwi.jpg',): 2 Chestnut
+
+('strawberries2.jpg',): 20 Pear Stone
+
+('cocos.jpg',): 26 Pear Kaiser
+
+('cherries_wax2.jpg',): 117 Cherry Rainier
+
+('raspberries6.jpg',): 17 Lemon Meyer
+
+('pomegranate.jpg',): 130 Apple Granny Smith
+
+('apples1.jpg',): 78 Potato Red Washed
+
+('raspberries9.jpg',): 104 Grape White 2
+
+('raspberry.jpg',): 8 Huckleberry
+
+('apples_pears.jpg',): 125 Walnut
+
+('mangos3.jpg',): 57 Onion White
+
+('tangelo.jpg',): 100 Pomelo Sweetie
+
+('cherries_wax4.jpg',): 26 Pear Kaiser
+
+('pears2.jpg',): 22 Plum
+
+('apple_grape.jpg',): 130 Apple Granny Smith
+
+('physalis1.jpg',): 41 Pear 2
+
+('cherry_strawberries.jpg',): 73 Plum 3
+
+('cherries_strawberries2.jpg',): 71 Mangostan
+
+('raspberry5.jpg',): 47 Ginger Root
+
+('apple_apricot_peach_peach(flat)_pomegranate_pear_plum_3.jpg',): 123 Pear Monster
+
+('raspberries1.jpg',): 106 Pear Forelle
+
+('cherry_strawberries2.jpg',): 71 Mangostan
+
+('pomegranate2.jpg',): 27 Peach
+
+('cherry3.jpg',): 54 Cucumber Ripe 2
+
+('cactus fruits.jpg',): 3 Cherry Wax Black
+
+('dates.jpg',): 130 Apple Granny Smith
+
+('apples2.jpg',): 23 Physalis
+
+('salak2.jpg',): 57 Onion White
+
+('plums_pears.jpg',): 37 Grape White
+
+('cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja2.jpg',): 105 Blueberry
+
+('physalis2.jpg',): 41 Pear 2
+
+('Bananas(lady_finger)3.jpg',): 83 Apple Pink Lady
+
+('Bananas(lady_finger)4.jpg',): 85 Tangelo
+
+('mangos1.jpg',): 111 Carambula
+
+('cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja.jpg',): 84 Guava
+
+('chestnut1.jpg',): 96 Apple Golden 1
+
+('cherries_wax1.jpg',): 76 Onion Red Peeled
+
+('raspberry2.jpg',): 111 Carambula
+
+('cherries8.jpg',): 41 Pear 2
+
+('lychee.jpg',): 120 Tomato 3
+
+('cherries_wax3.jpg',): 14 Pepper Orange
+
+('cherries_wax6.jpg',): 129 Mandarine
+
+('apple_apricot_peach_peach(flat)_pomegranate_pear_plum.jpg',): 37 Grape White
+
+('tomatoes3.jpg',): 3 Cherry Wax Black
+
+('cherries_wax7.jpg',): 74 Mango
+
+('apple_grape2.jpg',): 27 Peach
+
+('cocos_kiwi_orange_dates_salak_plum_tamarilo_maracuja3.jpg',): 3 Cherry Wax Black
+
+('raspberries4.jpg',): 63 Tomato Cherry Red
+
+('raspberries5.jpg',): 89 Pepper Red
+
+('cherries6.jpg',): 21 Grape Blue
+
+('cherries(rainier)2.jpg',): 2 Chestnut
+
+('apples_peaches1.jpg',): 9 Pepper Yellow
+
+('cherry2.jpg',): 117 Cherry Rainier
+
+('apple_apricot_peach_peach(flat)_pomegranate_pear_plum_2.jpg',): 81 Potato White
+
+('salak.jpg',): 107 Cocos
+
+('pears1.jpg',): 57 Onion White
+
+('raspberry4.jpg',): 17 Lemon Meyer
+
+('raspberry3.jpg',): 63 Tomato Cherry Red
+
